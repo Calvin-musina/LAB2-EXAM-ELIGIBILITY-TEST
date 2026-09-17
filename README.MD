@@ -1,10 +1,17 @@
  ELIGIBILITY AND RESULT TESTING SYSTEM  FOR UNIVERSITY
+
 Group 23
+
 GROUP MEMBERS:
+
 BRUCE KARITI     C026-01-0969/2025
+
 KELVIN MUSINA    C026-01-0946/2025
+
 ALLAN CHESIPUL   C026-01-0946/2025
+
 System Description
+
 This is a system written in c that checks all requirement for student to sit for an exam and also processes students results. 
 
 The system stores student information using a struct, validates marks, checks examination eligibility, calculates total marks, assigns grades, displays results, calculates basic statistics.
