@@ -1,10 +1,17 @@
- MATATU TERMINUS SCHEDULER
-LAB 2
+ MATATU TERMINUS SCHEDULER  
+
+LAB 2  
+
 Lua
+
 GROUP 23 MEMBERS
+
 Bruce kariti   C026-01-0969/2025
+
 Kelvin musina  C026-01-0946/2025
+
 Allan chesipul C026-01-0947/2025
+
 I. INTRODUCTION
 The Matatu Terminus Scheduler is a Lua programming project designed to demonstrate the use of Lua coroutines and cooperative scheduling.
 
